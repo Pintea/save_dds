@@ -4,7 +4,7 @@
 #define STB_DXT_IMPLEMENTATION
 #pragma warning(push)
 #pragma warning(disable: 4244) // conversion from 'int' to 'unsigned char', possible loss of data
-#include "stb/stb_dxt.h"
+#include "stb_dxt.h"
 #pragma warning(pop)
 #undef STB_DXT_IMPLEMENTATION
 
