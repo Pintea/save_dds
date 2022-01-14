@@ -5,4 +5,5 @@ RGB data is compressed as DXT1 and RGBA data as DXT5 using stb_dxt, then saved a
 
 Note: does not support mipmaps at this time.
 
+Usage:
 void savedds(const char* filename, const unsigned char* pData, int width, int height, int bpp)
