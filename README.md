@@ -1,5 +1,5 @@
 # save_dds
-Compress and save raw pixel data as a DDS file (using stb_dxt for compression) in C++
+Tiny code to compress and save raw pixel data as a DDS file (using stb_dxt for compression) in C++
 
 Note: does not support mipmaps at this time.
 
